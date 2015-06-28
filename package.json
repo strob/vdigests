@@ -34,7 +34,7 @@
     "less": "^1.7.0",
     "lusca": "^1.0.0",
     "method-override": "^1.0.0",
-    "mongoose": "^3.8.11",
+    "mongoose": "^4.0.0",
     "morgan": "^1.1.1",
     "node-foursquare": "^0.2.1",
     "node-linkedin": "^0.2.0",
