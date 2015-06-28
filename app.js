@@ -134,7 +134,7 @@ app.use(function(err, req, res, next){
 /**
  * Application routes.
  */
-var extraPath = ":extra?/?";
+var extraPath = "";//":extra?/?";
 app.get('/:extra(videodigests)?', homeController.index);
 // TODO separate editor from the viewer
 app.get('/' + extraPath + 'view/:ptitle', editorController.getEditor);
