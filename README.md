@@ -10,6 +10,7 @@ This application has the following dependencies:
 - node
 - npm
 - ffmpeg
+- python-numpy ("pip install numpy" or "apt-get install python-numpy")
 
 ## Installation
 Assuming you've installed the dependencies
