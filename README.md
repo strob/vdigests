@@ -10,7 +10,13 @@ This application has the following dependencies:
 - node
 - npm
 - ffmpeg
-- python-numpy ("pip install numpy" or "apt-get install python-numpy")
+
+...as well as several python dependencies (numpy, pymongo, nltk),
+which can be installed with:
+
+```sh
+pip install -r requirements.txt
+```
 
 ## Installation
 Assuming you've installed the dependencies
